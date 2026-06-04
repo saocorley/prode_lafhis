@@ -1,0 +1,41 @@
+[
+  {
+    "id": "GC1",
+    "ronda": "Fase de Grupos - Grupo C - Fecha 1",
+    "fecha": "2026-06-XX",
+    "hora": "XX:XX",
+    "local": "Argentina",
+    "visitante": "EQUIPO_2",
+    "sede": "ESTADIO, CIUDAD",
+    "resultado": {
+      "local": 1,
+      "visitante": 0
+    },
+    "scored": true
+  },
+  {
+    "id": "GC2",
+    "ronda": "Fase de Grupos - Grupo C - Fecha 2",
+    "fecha": "2026-06-XX",
+    "hora": "XX:XX",
+    "local": "Argentina",
+    "visitante": "EQUIPO_3",
+    "sede": "ESTADIO, CIUDAD",
+    "resultado": {
+      "local": 4,
+      "visitante": 0
+    },
+    "scored": true
+  },
+  {
+    "id": "GC3",
+    "ronda": "Fase de Grupos - Grupo C - Fecha 3",
+    "fecha": "2026-06-XX",
+    "hora": "XX:XX",
+    "local": "EQUIPO_2",
+    "visitante": "Argentina",
+    "sede": "ESTADIO, CIUDAD",
+    "resultado": null,
+    "scored": false
+  }
+]

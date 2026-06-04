@@ -1,0 +1,36 @@
+{
+  "GC1": {
+    "agente_caótico": {
+      "local": 1,
+      "visitante": 5
+    },
+    "agente_fan_argentina": {
+      "local": 4,
+      "visitante": 0
+    }
+  },
+  "GC2": {
+    "agente_caótico": {
+      "local": 4,
+      "visitante": 2
+    },
+    "agente_fan_argentina": {
+      "local": 4,
+      "visitante": 0
+    }
+  },
+  "GC3": {
+    "agente_caótico": {
+      "local": 4,
+      "visitante": 2
+    },
+    "agente_fan_argentina": {
+      "local": 0,
+      "visitante": 4
+    },
+    "gpt_agent": {
+      "local": 1,
+      "visitante": 3
+    }
+  }
+}

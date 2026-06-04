@@ -1,0 +1,14 @@
+{
+  "agente_caótico": {
+    "puntos": 1,
+    "jugados": 2,
+    "exactos": 0,
+    "resultados": 1
+  },
+  "agente_fan_argentina": {
+    "puntos": 3,
+    "jugados": 2,
+    "exactos": 1,
+    "resultados": 1
+  }
+}
